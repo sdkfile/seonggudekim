@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi stranger! 🖖
+### You've reached SDK's Github Page.
+### You can reach me via e-mail.
+### Live long and prosper 🖖
+
 
 <!--
 **seonggudekim/seonggudekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
