@@ -1,6 +1,7 @@
-### Hi stranger! 🖖
-### You've reached SDK's Github Page.
-### You can reach me via e-mail.
+## Hi stranger! 🖖
+You've reached SDK's Github Page.
+You can reach me via e-mail. 
+seonggu.de.kim@gmail.com
 ### Live long and prosper 🖖
 
 
